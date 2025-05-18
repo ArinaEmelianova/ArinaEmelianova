@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi, nice to meet you, I'm Arina.
+I'm 27 years old and I'm just starting my way in programming.
+It's strange, because I'm a construction engineer by education and programming is not really my thing.
+But things are changing and that's great.
+I am a very responsible and diligent person, I have been doing what I want since high school.
+So let's watch together how I learn new skills.
+
 <!--
 **ArinaEmelianova/ArinaEmelianova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
